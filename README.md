@@ -49,7 +49,7 @@ This repository will be updated regularly as I progress through the syllabus. Co
 ## 📬 Contact
 
 Feel free to reach out if you find this helpful or spot any errors:  
-📧 rebecca.math@email.com *(replace with your actual contact if you'd like)*
+📧 becdsz@email.com *(replace with your actual contact if you'd like)*
 
 ---
 
